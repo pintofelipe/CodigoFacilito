@@ -1,6 +1,9 @@
 # Código Facilito - Introducción a GitHub
 
 
+![Estrellas del repo](https://img.shields.io/github/stars/pintofelipe/CodigoFacilito?style=social)
+
+
 Contenido
 - [Descripción](
     https://github.com/pintofelipe/CodigoFacilito/issues
